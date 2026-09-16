@@ -3,10 +3,6 @@ Catalogo consultabile - Economia del Neanderthal
 
 ![il mondo](IMG-20260916-WA0000.jpg)
 
-![l'analisi](grok_1789584397672.jpg)
-
-![gli strumenti](grok_1789584352466.jpg)
-
 :-) Cerchio del Fuoco (-: 
 
 Autorità ←|Concrescenza|→Potere
@@ -45,6 +41,9 @@ Multidisciplinare con simboli PC:
 - `--\_/--` bilancia Paracelso 
 - Ω Entelechia/concrescenza
 
+  ![l'analisi](grok_1789584397672.jpg)
+  
+
 - . La semplificazione e i suoi costi
 
 La struttura matematica neoclassica standard opera su un insieme di assunzioni che rendono trattabile il problema economico: agente rappresentativo o interazione ridotta a prezzi; preferenze stabili; informazione sufficientemente elaborabile; vincoli tecnologici e di risorse trattati come dati o come esternalità da internalizzare a posteriori; base demografica e relazionale considerata stabile o esogena; ambiente fisico presente, quando lo è, come vincolo debole o come costo residuale.
@@ -69,6 +68,7 @@ Nella tradizione dominante l’ambiente è un vincolo da internalizzare (tasse p
 **Il rapporto tra necessità e benessere come dato di preferenza.**  
 Le preferenze sono stabili o si aggiornano in modo ordinato. Il gap percepito tra ciò che si ritiene dovuto e ciò che si ritiene ottenuto (N/B) non entra come leva che spinge l’estrazione indipendentemente dalla disponibilità materiale reale. Eppure è proprio questo gap percepito — non la fisiologia — a poter intensificare la pressione sull'ambiente anche quando sono già disponibili le risorse materiali.
 
+![gli strumenti](grok_1789584352466.jpg)
 
 # Economia del Neanderthal
 Catalogo. Scaffale aperto. Misurare e conteggiare.  
