@@ -1,7 +1,7 @@
 # Anteprima-socioeconomica-del-Neanderthal-
 Catalogo consultabile - Economia del Neanderthal 
 
-![il mondo](IMG-20260916-WA0001.jpg)
+![il mondo](IMG-20260916-WA0000.jpg)
 
 ![l'analisi](grok_1789584397672.jpg)
 
